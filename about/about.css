@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    background: url(https://images.unsplash.com/photo-1531185907801-2771c11ab782?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+   
+}
+h2 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: blue;
+    
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(215, 230, 214);
+}
+
+h3{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: greenyellow;
+    
+}
